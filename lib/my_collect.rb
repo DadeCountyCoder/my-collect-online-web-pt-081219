@@ -1,4 +1,4 @@
 def my_collect[]
-  array= += 1 
+  array.collect += 1 
 end
 
